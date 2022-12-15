@@ -1,5 +1,5 @@
 const mongoose=require('mongoose')
-const DB='mongodb+srv://harshit123:nobita@cluster0.71u3cwm.mongodb.net/?retryWrites=true&w=majority'
+const DB=''
 mongoose.connect(DB).then(()=>{console.log('connection is successful')}).catch((e)=>{console.log(e)});
 
 const UserSchema= new mongoose.Schema({
