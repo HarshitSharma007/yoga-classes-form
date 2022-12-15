@@ -1,0 +1,24 @@
+body , html {
+  margin: 0;
+  height :100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  background-image: url('./components/3.jpg');
+}
+
+code {
+  font-family: sans-serif
+}
+
+#root{
+height :100%;
+
+background-image: url('./components/3.jpg');
+ 
+  
+  background-size: cover;
+}

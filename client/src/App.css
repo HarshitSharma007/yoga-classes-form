@@ -1,0 +1,147 @@
+.container{
+  height:100%;
+  width:30%;
+  min-width:370px;
+  gap:10px;
+  display:flex;
+  padding : 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(62, 62, 67,0.5); 
+  margin-top: 10%;
+  margin-bottom: 5%;
+  box-shadow: rgb(60, 55, 65) 5px 5px 5px;
+
+}
+
+label {
+  font-size: small;
+  font-family: ' sans-serif';
+}
+
+#password {
+  width: 18vw;
+  min-width:300px;
+  height:5vh;
+  font-size: x-large;
+}
+#age {
+  width: 18vw;
+  min-width:300px;
+  height:5vh;
+  font-size: x-large;
+}
+ #batch{
+  width: 18vw;
+  min-width:300px;
+  height:5vh;
+  font-size: x-large;
+}
+  #month{
+    width: 18vw;
+    min-width:300px;
+    height:5vh;
+    font-size: x-large;
+  }
+   #name{
+    width: 18vw;
+    min-width:300px;
+    height:5vh;
+    font-size: x-large;
+  }
+#title{
+  width:18vw;
+  min-width:300px;
+  height:5vh;
+  font-size: x-large;
+}
+
+label{
+  color:white;
+  font-size: x-large;
+  font-weight: 600;
+}
+.passwordlist{
+  width:100%;
+  height:100%;
+  margin-top: 5%;
+}
+.passwordlist ul {
+
+  
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  gap:15px;
+  justify-content: center;
+}
+.passwordlist li{
+  color: white;
+  text-align: center;
+  border:2px solid black;
+  border-radius:5px;
+  background-color:rgb(57, 57, 65);
+  list-style: none;
+  height:5vh;
+  width:80vw;
+  font-size: x-large;
+  font-weight:700;
+  font-family:sans-serif;
+
+  
+
+}
+
+.eye-icon :hover{
+  cursor:pointer;
+}
+button{
+  cursor:pointer;
+  border:1px solid black;
+  border-radius:5px;
+  height:30px;
+  background-color: chartreuse;
+
+}
+.submit{
+  cursor:pointer;
+  border:1px solid black;
+  border-radius:5px;
+  height:40px;
+  width:100px;
+  font-weight:500;
+  margin-top:10px;
+  background-color: rgb(235, 182, 37);
+}
+.eye-icon{
+  background-color: rgb(181, 181, 226);
+  margin:0.1vw;
+  width:40px;
+}
+
+.eye-icon-none{
+  display:none;
+}
+
+.navbar{
+  width:100%;
+  /* display:flex; */
+  background-color: rgb(154, 154, 231);
+  position:fixed;
+  top:0;
+  height:50px;
+  /* align-items: center;
+  justify-content: center; */
+}
+
+input{
+  border:2px solid black;
+  border-radius: 5px;
+}
+
+.about{
+  padding:5vw;
+}
