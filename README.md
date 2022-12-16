@@ -15,5 +15,5 @@ this is a website made in MERN stack  for the people who are interested to enrol
 ![registered-users-page](https://user-images.githubusercontent.com/79695575/208161436-0d804ef2-2557-4266-a82f-3a1a051ee29b.png)
 
 ## ER diagram 
-
+Email is the primary key for the participant entity.The Course is a weak entity.
 ![ER-diagram](https://user-images.githubusercontent.com/79695575/208163378-0c83218c-64ab-4bae-b60a-23245b2e1a81.jpeg)
