@@ -1,6 +1,6 @@
 # yoga-classes-form [Preview 🔗](https://magenta-kelpie-c7684d.netlify.app/)
 
-this is a website made for the people who are interested to enroll in the Yoga classes. They can fill their details using this form that appears on clicking the Home option in the website
+this is a website made in MERN stack  for the people who are interested to enroll in the Yoga classes. They can fill their details using this form that appears on clicking the Home option in the website
 
 ## Homepage 
 ![homepage](https://user-images.githubusercontent.com/79695575/208161210-6aab6aa2-c127-4231-a2c2-27921fdcb727.png)
@@ -14,3 +14,6 @@ this is a website made for the people who are interested to enroll in the Yoga c
 ## Registered Users are being stored in database with month and batch time
 ![registered-users-page](https://user-images.githubusercontent.com/79695575/208161436-0d804ef2-2557-4266-a82f-3a1a051ee29b.png)
 
+## ER diagram 
+
+![ER-diagram](https://user-images.githubusercontent.com/79695575/208163378-0c83218c-64ab-4bae-b60a-23245b2e1a81.jpeg)
