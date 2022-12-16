@@ -1,4 +1,4 @@
-# yoga-classes-form
+# yoga-classes-form [click to see](https://magenta-kelpie-c7684d.netlify.app/)
 
 this is a website made for the people who are interested to enroll in the Yoga classes. They can fill their details using this form that appears on clicking the Home option in the website
 
