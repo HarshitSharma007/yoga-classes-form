@@ -1,5 +1,5 @@
 const mongoose=require('mongoose')
-const DB=''
+const DB=process.env.DB_STRING
 mongoose.connect(DB).then(()=>{console.log('connection is successful')}).catch((e)=>{console.log(e)});
 
 const UserSchema= new mongoose.Schema({
